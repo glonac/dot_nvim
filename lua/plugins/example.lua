@@ -33,6 +33,12 @@ return {
     },
   },
 
+  {
+    "David-Kunz/gen.nvim",
+    priority = 1000,
+    opts = {},
+  },
+
   -- {
   --   "mason-nvim-dap.nvim",
   --   opts = {
