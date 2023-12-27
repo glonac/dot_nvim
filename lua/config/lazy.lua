@@ -54,3 +54,5 @@ require("lazy").setup({
     },
   },
 })
+
+require("pack.plugins.ollama")
