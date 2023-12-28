@@ -40,6 +40,12 @@ return {
   },
 
   {
+    "ray-x/go.nvim",
+    priority = 1000,
+    opts = {},
+  },
+
+  {
     "nvimdev/dashboard-nvim",
     priority = 1000,
     opts = {},
