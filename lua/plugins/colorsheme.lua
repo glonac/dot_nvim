@@ -5,9 +5,12 @@ return {
     priority = 1000,
     opts = function()
       return {
-        transparent = false,
+        transparent = true,
+        styles = {
+          sidebars = "transparent",
+          floats = "transparent",
+        },
       }
     end,
   },
 }
-
